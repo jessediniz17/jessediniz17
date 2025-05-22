@@ -1,6 +1,10 @@
 ## Sobre mim
 
-Me chamo Jessé. Sou técnico em informática para internet. Já tive experiências com desenvolvimento web (ASP.Net) na graduação de Bacharelado em Sistemas de Informação, mas hoje minha área de interesse é Data Science. Atualmente, estou cursando Ciência de Dados
+Sou técnico em Informática para Internet e graduando em Ciência de Dados e Análise e Desenvolvimento de Sistemas. 
+Possuo sólido conhecimento em Excel, além de ferramentas do Azure para inteligência artificial (Azure ML e Azure Foundry) e linguagem Python, com foco em análise e ciência de dados (pandas, matplotlib, TensorFlow, Scikit-learn).
+Já atuei como suporte técnico, realizando manutenções preventivas em computadores e laptops, instalações / configurações de rede e software.
+Já atuei com o sistema SAP em uma das 20 maiores empresas de varejo do país, onde ampliei meus conhecimentos em logística e gestão de equipe. 
+Sou fluente em inglês e entendo o básico em espanhol
 
 
 

@@ -29,5 +29,5 @@ Sou fluente em inglês e entendo o básico em espanhol
 
  [![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=)]() [![GitHub](https://img.shields.io/badge/gitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)]()
 
- [![tensorflow](https://img.shields.io/badge/Tensor%20Flow-000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)]()  [![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=0E76A8)]()
+ [![tensorflow](https://img.shields.io/badge/Tensor%20Flow-000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)]()  [![React](https://img.shields.io/badge/react.js-000?style=for-the-badge&logo=react&logoColor=0E76A8)]()
 

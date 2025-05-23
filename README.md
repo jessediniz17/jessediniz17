@@ -22,7 +22,7 @@ Sou fluente em inglês e entendo o básico em espanhol
 [![jupyternotebook](https://img.shields.io/badge/jupyter%20notebook-000?style=for-the-badge&logo=jupyter&logoColor=f5a511)]() 
 
 [![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=2aad30)]() [![PowerBI](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi&logoColor=)]()
-[![Azure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0E76A8)]() 
+[![MicrosoftAzure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0E76A8)]() 
 
 
 ## Estudos Atuais

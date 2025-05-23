@@ -21,9 +21,11 @@ Sou fluente em inglês e entendo o básico em espanhol
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0E76A8)]() [![SQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=ffffff)]() 
 [![jupyternotebook](https://img.shields.io/badge/jupyter%20notebook-000?style=for-the-badge&logo=jupyter&logoColor=f5a511)]() 
 
-[![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=2aad30)]() [![PowerBI](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi&logoColor=)]()
-[![azure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=azuredevops&logoColor=0E76A8)]()
-[![django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=0E76A8)]() [![vscode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=vscode&logoColor=0E76A8)]() 
+[![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=googlesheets&logoColor=2aad30)]() [![PowerBI](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi&logoColor=)]()
+[![azure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=airbrake&logoColor=0E76A8)]()
+[![django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=004D40)]()
+[![vscode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=vscode&logoColor=0E76A8)]()
+
 
 
 

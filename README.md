@@ -6,7 +6,7 @@ Já atuei como suporte técnico, realizando manutenções preventivas em computa
 Já atuei com o sistema SAP em uma das 20 maiores empresas de varejo do país, onde ampliei meus conhecimentos em logística e gestão de equipe. 
 Sou fluente em inglês e entendo o básico em espanhol
 
-Artificial Intelligence Engineer and Full Stack Developer with over 3 years of experience, specializing in Python, Django, TensorFlow, and generative AI tools such as ChatGPT, ElevenLabs, and Runway. I design and develop AI-powered solutions, including chatbots and automated content systems, delivering scalable impact through intelligent automation. I thrive in collaborative, agile, and fast-paced environments, combining technical expertise with creative problem-solving. My edge lies in my ability to merge software engineering with the latest AI trends, creating innovative solutions that drive efficiency and user engagement.
+Full Stack Developer with over 3 years of experience, focused on Artificial Intelligence Engineer. Graduating on Data Science, specializing in Python, Django, TensorFlow, and generative AI tools such as ChatGPT, ElevenLabs, and Runway. I design and develop AI-powered solutions, including chatbots and automated content systems, delivering scalable impact through intelligent automation. I thrive in collaborative, agile, and fast-paced environments, combining technical expertise with creative problem-solving. My edge lies in my ability to merge software engineering with the latest AI trends, creating innovative solutions that drive efficiency and user engagement.
 
 
 

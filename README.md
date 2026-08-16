@@ -37,7 +37,7 @@ Engenheiro de IA em formação, com experiência prática aplicando Machine Lear
 
 ## 📫 Contato
 
-- LinkedIn: [[seu link aqui](https://www.linkedin.com/in/jesse-diniz/)]
+- LinkedIn: [(https://www.linkedin.com/in/jesse-diniz/)]
 - E-mail: [jessediniz.ti@gmail.com]
 
 ---

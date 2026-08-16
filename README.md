@@ -7,8 +7,8 @@ Engenheiro de IA em formação, com experiência prática aplicando Machine Lear
 ## 🚀 Sobre mim
 
 - 🔭 Foco atual: **Engenharia de IA** — RAG, agentes inteligentes, LLMs e MLOps
-- 💼 Experiência prática como **Cientista de Dados** (Unifardas), com soluções de ML/IA implantadas em produção
-- 🎓 Bacharelado em **Ciência de Dados** (Univesp, conclusão prevista em 2027) + Pós-graduação em **IA Generativa e Agentes Inteligentes para Negócios**
+- 💼 Experiência prática como **Cientista de Dados**, com soluções de ML/IA implantadas em produção
+- 🎓 Bacharelado em **Ciência de Dados** (Univesp, conclusão prevista em 2028) + Pós-graduação em **IA Generativa e Agentes Inteligentes para Negócios**
 - 📜 Certificado em **Azure AI Fundamentals, Azure Data Fundamentals, Azure Fundamentals** (Microsoft) e **AI Foundations Associate, Vector Search, AI Agent Studio Foundations** (Oracle)
 - 🌱 Aprofundando: MLOps, CI/CD e Infraestrutura como Código (IaC)
 - 🎯 Buscando ativamente oportunidades como **Analista/Engenheiro de IA/Cientista de Dados**
@@ -54,8 +54,8 @@ AI Engineer in training, with hands-on experience applying Machine Learning and 
 ## 🚀 About me
 
 - 🔭 Current focus: **AI Engineering** — RAG, intelligent agents, LLMs, and MLOps
-- 💼 Hands-on experience as a **Data Scientist** (Unifardas), deploying ML/AI solutions to production
-- 🎓 Bachelor's in **Data Science** (Univesp, expected 2027) + Postgraduate degree in **Generative AI and Intelligent Agents for Business**
+- 💼 Hands-on experience as a **Data Scientist**, deploying ML/AI solutions to production
+- 🎓 Bachelor's in **Data Science** (Univesp, expected 2028) + Postgraduate degree in **Generative AI and Intelligent Agents for Business**
 - 📜 Certified in **Azure AI Fundamentals, Azure Data Fundamentals, Azure Fundamentals** (Microsoft) and **AI Foundations Associate, Vector Search, AI Agent Studio Foundations** (Oracle)
 - 🌱 Currently deepening: MLOps, CI/CD, and Infrastructure as Code (IaC)
 - 🎯 Actively looking for opportunities as an **AI Analyst/Engineer**

@@ -1,40 +1,91 @@
-## Sobre mim
+🇧🇷 [Português](#-olá-sou-o-jessé-) | 🇬🇧 [English](#-hi-im-jessé-)
 
-Sou técnico em Informática para Internet, graduado em Análise e Desenvolvimento de Sistemas e graduando em Ciência de Dados. Focado em Engenharia de Inteligência Artificial e atuando atualmente como desenvolvedor full stack.
-Possuo sólido conhecimento em Excel, além de ferramentas do Azure para inteligência artificial (Azure ML e Azure Foundry) e linguagem Python, com foco em análise e ciência de dados (pandas, matplotlib, TensorFlow, Scikit-learn). Possuo conhecimento em JavaScript, React e Node.
-Já atuei como suporte técnico, realizando manutenções preventivas em computadores e laptops, instalações / configurações de rede e software.
-Já atuei com o sistema SAP em uma das 20 maiores empresas de varejo do país, onde ampliei meus conhecimentos em logística e gestão de equipe. 
-Sou fluente em inglês e entendo o básico em espanhol
+# Olá, sou o Jessé 👋
 
-Full Stack Developer with over 3 years of experience, focused on Artificial Intelligence Engineer. Graduating on Data Science, specializing in Python, Django, TensorFlow, and generative AI tools such as ChatGPT, ElevenLabs, and Runway. I design and develop AI-powered solutions, including chatbots and automated content systems, delivering scalable impact through intelligent automation. I thrive in collaborative, agile, and fast-paced environments, combining technical expertise with creative problem-solving. My edge lies in my ability to merge software engineering with the latest AI trends, creating innovative solutions that drive efficiency and user engagement.
+Engenheiro de IA em formação, com experiência prática aplicando Machine Learning e IA Generativa em ambiente de produção.
+
+## 🚀 Sobre mim
+
+- 🔭 Foco atual: **Engenharia de IA** — RAG, agentes inteligentes, LLMs e MLOps
+- 💼 Experiência prática como **Cientista de Dados** (Unifardas), com soluções de ML/IA implantadas em produção
+- 🎓 Bacharelado em **Ciência de Dados** (Univesp, conclusão prevista em 2027) + Pós-graduação em **IA Generativa e Agentes Inteligentes para Negócios**
+- 📜 Certificado em **Azure AI Fundamentals, Azure Data Fundamentals, Azure Fundamentals** (Microsoft) e **AI Foundations Associate, Vector Search, AI Agent Studio Foundations** (Oracle)
+- 🌱 Aprofundando: MLOps, CI/CD e Infraestrutura como Código (IaC)
+- 🎯 Buscando ativamente oportunidades como **Analista/Engenheiro de IA/Cientista de Dados**
+- 🌎 Objetivo de longo prazo: atuar internacionalmente
+
+## 🛠️ Stack principal
+
+**IA & ML**
+`Python` `LangChain` `RAG` `LLMs` `YOLO` `MLflow` `pgvector`
+
+**Backend**
+`FastAPI` `Django`
+
+**Cloud & Dados**
+`Azure` `PostgreSQL`
+
+**Automação**
+`n8n`
+
+## 📌 Projetos em destaque
+
+- **Pipeline de ML end-to-end** — do dado bruto ao modelo em produção
+- **Sistema RAG** — LangChain + PostgreSQL/pgvector para recuperação aumentada de contexto
+- **Visão Computacional com YOLO** — detecção de objetos aplicada
 
 
+## 📫 Contato
 
-## Conecte-se comigo
+- LinkedIn: [[seu link aqui](https://www.linkedin.com/in/jesse-diniz/)]
+- E-mail: [jessediniz.ti@gmail.com]
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jess%C3%A9-diniz/)
+---
+💡 Aberto a oportunidades como Analista de IA / Engenheiro de IA / Cientista de Dados.
 
-[![GitHub](https://img.shields.io/badge/gitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/jessediniz17)
+<br>
+
+---
+
+# Hi, I'm Jessé 👋
+
+AI Engineer in training, with hands-on experience applying Machine Learning and Generative AI in production environments.
+
+## 🚀 About me
+
+- 🔭 Current focus: **AI Engineering** — RAG, intelligent agents, LLMs, and MLOps
+- 💼 Hands-on experience as a **Data Scientist** (Unifardas), deploying ML/AI solutions to production
+- 🎓 Bachelor's in **Data Science** (Univesp, expected 2027) + Postgraduate degree in **Generative AI and Intelligent Agents for Business**
+- 📜 Certified in **Azure AI Fundamentals, Azure Data Fundamentals, Azure Fundamentals** (Microsoft) and **AI Foundations Associate, Vector Search, AI Agent Studio Foundations** (Oracle)
+- 🌱 Currently deepening: MLOps, CI/CD, and Infrastructure as Code (IaC)
+- 🎯 Actively looking for opportunities as an **AI Analyst/Engineer**
+- 🌎 Long-term goal: working internationally
+
+## 🛠️ Core stack
+
+**AI & ML**
+`Python` `LangChain` `RAG` `LLMs` `YOLO` `MLflow` `pgvector`
+
+**Backend**
+`FastAPI` `Django`
+
+**Cloud & Data**
+`Azure` `PostgreSQL`
+
+**Automation**
+`n8n`
+
+## 📌 Featured projects
+
+- **End-to-end ML pipeline** — from raw data to a model in production
+- **RAG system** — LangChain + PostgreSQL/pgvector for retrieval-augmented generation
+- **Computer Vision with YOLO** — applied object detection
 
 
+## 📫 Contact
 
-## Habilidades
+- LinkedIn: [(https://www.linkedin.com/in/jesse-diniz/)]
+- Email: [jessediniz.ti@gmail.com]
 
-[![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0E76A8)]() [![SQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=ffffff)]() 
-[![jupyternotebook](https://img.shields.io/badge/jupyter%20notebook-000?style=for-the-badge&logo=jupyter&logoColor=f5a511)]() 
-
-[![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=googlesheets&logoColor=2aad30)]() [![PowerBI](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi&logoColor=)]()
-[![azure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=airbrake&logoColor=0E76A8)]()
-[![django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=004D40)]()
-[![vscode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=vscode&logoColor=0E76A8)]()
-
-
-
-
-## Estudos Atuais
-
- [![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=)]() [![GitHub](https://img.shields.io/badge/gitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)]()
-
- [![tensorflow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)]()  [![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=0E76A8)]() 
- [![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=0E76A8)]()
-
+---
+💡 Open to opportunities as an AI Analyst / AI Engineer / Data Scientist.
